@@ -1,7 +1,7 @@
-str1 = '小林'
-str2 = '清歌'
-str3 = 'です。'
-num = 45
-str4 = '歳です。'
+familyname = '小林'
+firstname = '清歌'
+nameconnective = 'です。'
+years = 45
+yearsconnective = '歳です。'
 
-puts str1 += str2 + str3 + num.to_s + str4
+puts familyname += firstname + nameconnective + years.to_s + yearsconnective
